@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+#Faqs{
+    padding: 10%;
+    .head{
+        h6{
+            text-align: center;
+            color: #009cff;
+        }
+        h1{
+            text-align: center;
+            color: #22395d;
+        }
+        p{
+            text-align: center;
+            font-weight: 300;
+            color: #009cff;
+        }
+    }
+.faqs-items{
+    
+    .faqs-left{
+        padding-right: 10px;
+        text-align: end;
+    }
+    .faqs-right{
+        padding-left: 10px;
+
+        text-align: start;
+    }
+}
+}

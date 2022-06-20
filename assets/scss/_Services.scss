@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+#services{
+    padding: 10%;
+    .head{
+        h6{
+            text-align: center;
+            color: #009cff;
+        }
+        h1{
+            text-align: center;
+            color: #22395d;
+        }
+        p{
+            text-align: center;
+            font-weight: 300;
+            color: #009cff;
+        }
+    }
+    .services-item{
+        width: 100%;
+        background-color: #f3f6ff;
+        img{
+            width: 100%;
+        }
+        h3{
+            padding-top: 18px;
+            padding-bottom: 18px;
+            text-align: center;
+            color: #22395d;
+            font-weight: 6x00;
+        }
+    }
+}
